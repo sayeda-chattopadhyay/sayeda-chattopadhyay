@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on portfolio 
-- 🌱 I’m currently learning frontend development
+- 🔭 I’m currently working on portfolio assignment.
+- 🌱 I’m currently learning frontend development.
 - 👯 I’m looking to collaborate on ux design and frontend development projects
 - 🤔 I’m looking for help with ux design 
 - 💬 Ask me about ...
