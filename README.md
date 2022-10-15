@@ -9,10 +9,10 @@ I aim to create solutions which are easily accessible to users of all ages and b
 
 
 Currenty I am studying front end development at Noroff
-I have completed UX-deign course last year
-I am looking for freelance work on web design and development
-I am open to collaborate
-My latest development jobs can be found here: 
+- 🌱 &nbsp; I have completed UX-deign course last year
+- 🔭 &nbsp; I am looking for freelance work on web design and development
+- 💬 &nbsp; I am open to collaborate
+- 👨‍💻 &nbsp; My latest development jobs can be found here: 
 <a href="https://stellular-taffy-47ab91.netlify.app">My Portfolio</a>
 
 ### Languages & Tools
@@ -25,7 +25,7 @@ My latest development jobs can be found here:
 ## Contact 
 <a href="https://www.linkedin.com/in/sayeda-chattopadhyay-7b33ba156/" target="_blank"> <img src="https://user-images.githubusercontent.com/83353551/195984318-dc867bbc-1288-4872-ba34-e6a4a7700535.png" alt="behance" width="40" height="40"/> </a> <a href="https://www.behance.net/gallery/111339401/UX-Portfolio" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="behance" width="40" height="40"/> </a>
 
-Linkedin Behance
+
 
 
 
