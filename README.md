@@ -1,18 +1,18 @@
 ### Hi I`am Sayeda. 👋
 I am an ux designer and a front-end developer. 
 
-I am passionate about art and craft. Hence I ventured into this field of UX design to fulfill my aspiration of designing user-centric products. Front-end development helps me bring my interactive designs in action.
+I am passionate about art and craft. Hence I ventured into this field of UX design to fulfill my aspiration of designing user-centric products. Now I am studying to be a Front-end developer so that I can help give life to my interactive designs.
 
 Many years of experience in banking and service sectors taught me to take challenges and underdstand clients´/ customers´ needs, goals and pain points with empathy. My previous experiences also help me to develop solutions tailored to specific needs of the clients.
 
 I aim to create solutions which are easily accessible to users of all ages and backgrounds including those who are having physical or cognitive limitations in their life.
 
 
-Currenty I am studying front end development at Noroff
-- 🌱 &nbsp; I have completed UX-deign course last year
-- 🔭 &nbsp; I am looking for freelance work on web design and development
-- 💬 &nbsp; I am open to collaborate
-- 👨‍💻 &nbsp; My latest development jobs can be found here: 
+- :woman_student: Currenty I am studying front end development at Noroff.
+- :seedling: I have completed UX-deign course last year.
+- :telescope:	I am looking for freelance work on web design and development.
+- :speech_balloon: I am open to collaborate.
+- :woman_technologist:	 My latest development jobs can be found here: 
 <a href="https://stellular-taffy-47ab91.netlify.app">My Portfolio</a>
 
 ### Languages & Tools
