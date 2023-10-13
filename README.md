@@ -14,7 +14,7 @@ I aim to create solutions which are easily accessible to users of all ages and b
 - :telescope:	I am looking for freelance work on web design and development.
 - :speech_balloon: I am open to collaborate.
 - :woman_technologist:	 My latest development jobs can be found here: 
-<a href="https://stellular-taffy-47ab91.netlify.app">My Portfolio</a>
+<a href="https://endearing-froyo-04825b.netlify.app/">My Portfolio</a>
 
 ### Languages & Tools
 
