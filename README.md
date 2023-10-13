@@ -2,7 +2,7 @@
 
 I am an ux designer and a front-end developer. 
 
-I am passionate about art and craft. Hence I ventured into this field of UX design to fulfill my aspiration of designing user-centric products. Now I am studying to be a Front-end developer so that I can help give life to my interactive designs.
+I am passionate about art and craft. Hence I ventured into this field of UX design to fulfill my aspiration of designing user-centric products. Currently delving into front-end development, I'm dedicated to breathing life into my interactive designs.
 
 Many years of experience in banking and service sectors taught me to take challenges and underdstand clients´/ customers´ needs, goals and pain points with empathy. My previous experiences also help me to develop solutions tailored to specific needs of the clients.
 
