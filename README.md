@@ -1,6 +1,6 @@
 ### Hi I`am Sayeda. :wave:
 
-I am an ux designer and a front-end developer. 
+I am a ux designer and front-end developer. 
 
 I am passionate about art and craft. Hence I ventured into this field of UX design to fulfill my aspiration of designing user-centric products. Currently delving into front-end development, I'm dedicated to breathing life into my interactive designs.
 
