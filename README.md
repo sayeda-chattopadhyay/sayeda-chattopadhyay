@@ -6,7 +6,7 @@ I am passionate about art and craft. Hence I ventured into this field of UX desi
 
 Many years of experience in banking and service sectors taught me to take challenges and underdstand clients´/ customers´ needs, goals and pain points with empathy. My previous experiences also help me to develop solutions tailored to specific needs of the clients.
 
-I aim to create solutions which are easily accessible to users of all ages and backgrounds including those who are having physical or cognitive limitations in their life.
+I aim to create solutions which are easily accessible to users of all ages and backgrounds including those who are having physical or cognitive limitations in their life. I believe in the power of simplicity and inclusivity to create impactful and user-friendly digital experiences.
 
 
 - :woman_student: Currenty I am studying front end development at Noroff.
