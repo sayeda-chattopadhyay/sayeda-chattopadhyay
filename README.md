@@ -1,17 +1,16 @@
 ### Hi I`am Sayeda. :wave:
 
-I am a ux designer and front-end developer. 
+I'm a passionate UX designer and frontend developer.
 
-I am passionate about art and craft. Hence I ventured into this field of UX design to fulfill my aspiration of designing user-centric products. Currently delving into front-end development, I'm dedicated to breathing life into my interactive designs.
+I love creating websites and apps that look great and work smoothly. I enjoy turning design ideas into user-friendly digital experiences. I have a strong skill set and I'm dedicated to creating websites that are both aesthetically appealing and practical in the ever-changing world of web development.
 
-Many years of experience in banking and service sectors taught me to take challenges and underdstand clients´/ customers´ needs, goals and pain points with empathy. My previous experiences also help me to develop solutions tailored to specific needs of the clients.
+Many years of experience in banking and service sectors have taught me to take challenges and underdstand clients´ needs, goals and pain points with empathy. My previous experiences also help me to develop solutions tailored to specific needs of the clients.
 
-I aim to create solutions which are easily accessible to users of all ages and backgrounds including those who are having physical or cognitive limitations in their life. I believe in the power of simplicity and inclusivity to create impactful and user-friendly digital experiences.
+I strive to develop solutions that are accessible to users of all ages and backgrounds, including those with physical or cognitive limitations. I believe in the power of simplicity and inclusivity to create impactful and user-friendly digital experiences.
 
 
-- :woman_student: Currenty I am studying front end development at Noroff.
-- :seedling: I have completed UX-deign course last year.
-- :telescope:	I am looking for freelance work on web design and development.
+- :woman_student: I have obtained a professional degree in front-end development and UX design from Noroff Technology and Digital Media.
+- :telescope:	I am currently working as a freelancer and am seeking part-time or full-time opportunities in web design and development.
 - :speech_balloon: I am open to collaborate.
 - :woman_technologist:	 My latest development jobs can be found here: 
 <a href="https://endearing-froyo-04825b.netlify.app/">My Portfolio</a>
